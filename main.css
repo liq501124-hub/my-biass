@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Betania+Patmos&family=Black+Ops+One&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+body {
+background-color: #8365a1;
+font-family: 'Cormorant Garamond';
+}
+
+#zagol {
+    color: rgb(81, 1, 1);
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Cormorant Garamond';
+    background-color: rgb(169, 54, 111); height: 60px; 
+    border: 2px solid rgb(214, 36, 146); border-radius: 60px;
+    opacity: 0.9; display: block; 
+}
+
+#teperr {
+    font-size: 50px; font-weight: 700; color: rgb(141, 27, 49);
+}
+
+#Asa {
+    font-size: 30px; color: rgba(61, 1, 24, 0.959); font-weight: 500; 
+    font-family: 'Black Ops One';
+}
+
+.text {
+    font-weight: 500; font-size: 20px;
+}
+
+#perv {
+    font-size: 16px;
+}
+
+#bangg {
+    font-size: 30px; color: rgba(254, 244, 244, 0.727); font-weight: 800;
+}
+
+#Bang {
+    font-size: 25px; color: rgba(61, 1, 24, 0.959); font-weight: 500; 
+    font-family: 'Black Ops One';
+}
+
+.textt {
+    font-weight: 500; font-size: 20px;
+}
+
+#qqq {
+    font-weight: 700; font-size: 30px;
+}
